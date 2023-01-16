@@ -28,6 +28,12 @@ section {
     background-color: rgba(255, 0, 0, .7);
     
 }
+.text-center{
+    background-color: white;
+    margin-left: 20%;
+        margin-right: 20%;
+
+}
 .box {
   display: flex;
   align-items: stretch;
